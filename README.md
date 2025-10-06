@@ -265,13 +265,14 @@ TOTAL                                85      0   100%
 #### Visualização dos Relatórios
 
 **Relatório em Terminal:**
-![Cobertura Terminal](https://private-user-images.githubusercontent.com/143560192/498035969-6f790e8a-70ca-4423-b97c-7ac96c9c2f41.png)
+
+<img width="1915" height="483" alt="image" src="https://github.com/user-attachments/assets/18822133-ab7a-423e-ab46-1642b3537b7e" />
 
 **Relatório HTML Detalhado:**
-![Cobertura HTML](https://private-user-images.githubusercontent.com/143560192/498036131-ff838da2-b50b-4abe-93b6-b783a1b1b1e8.png)
 
-**Análise por Arquivo:**
-![Análise Detalhada](https://private-user-images.githubusercontent.com/143560192/498036212-d1a11105-efa6-4ad5-828c-fe3e468dafd2.png)
+<img width="541" height="242" alt="image" src="https://github.com/user-attachments/assets/806b9b09-096b-4f40-98af-de7dd0a01941" />
+<img width="793" height="272" alt="image" src="https://github.com/user-attachments/assets/083be693-7b15-4303-8773-d12caeef477e" />
+<img width="793" height="261" alt="image" src="https://github.com/user-attachments/assets/f1c8c507-8bf1-4cd8-aa4b-c5e545302529" />
 
 ### Métricas de Qualidade
 
@@ -460,4 +461,4 @@ Este projeto foi desenvolvido para fins educacionais como parte da disciplina de
 
 **Desenvolvido com ❤️ e ☕ para a disciplina de Qualidade de Software**
 
-*Última atualização: Outubro 2024*
+*Última atualização: Outubro 2025*
