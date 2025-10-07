@@ -277,7 +277,7 @@ TOTAL                                85      0   100%
 ### Métricas de Qualidade
 
 - ✅ **100% de cobertura** em código de produção
-- ✅ **42 testes** passando
+- ✅ **16 testes** passando
 - ✅ **0 testes falhando**
 - ✅ **0 advertências** ou warnings
 - ✅ Tempo médio de execução: **< 0.5s**
